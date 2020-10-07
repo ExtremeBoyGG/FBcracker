@@ -17,3 +17,6 @@ python2 run.py
 ## Contact
 [Facebook](https://www.facebook.com/dulahz)
 [Telegram](https://t.me/unikers)
+
+## How Get Cookie
+[Tutorial] (https://www.facebook.com/100042800416881/posts/240261960743816/?app=fbl)
