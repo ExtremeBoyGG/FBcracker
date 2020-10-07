@@ -19,4 +19,4 @@ python2 run.py
 [Telegram](https://t.me/unikers)
 
 ## How Get Cookie
-[Tutorial] (https://www.facebook.com/100042800416881/posts/240261960743816/?app=fbl)
+[Tutorial](https://www.facebook.com/100042800416881/posts/240261960743816/?app=fbl)
