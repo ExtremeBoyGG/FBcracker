@@ -11,6 +11,7 @@ pip2 install requests bs4
 ## Run script
 ```
 cd mbf
+mkdir out
 python2 run.py
 ```
 
