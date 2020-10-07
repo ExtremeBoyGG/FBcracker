@@ -15,7 +15,7 @@ import os, sys, shutil
 from app import main as app
 
 base_url = 'https://mbasic.facebook.com'
-
+os.system('mkdir out')
 if sys.version_info.major != 2:
 	sys.exit('\n\033[0;91m[WARNING] Please use python 2 version\033[0m')
 
